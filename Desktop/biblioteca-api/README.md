@@ -38,7 +38,7 @@ Este proyecto es una aplicación web para la gestión de una biblioteca. Incluye
 - Node.js y npm
 - MySQL
 - Composer
-- Laravel 10
+- Laravel 12
 - React + Vite
 
 ## Instalación
